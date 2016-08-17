@@ -1550,28 +1550,27 @@ LB,Hau'oli Kikaha,23,2015,88,60,78,72,87,55,1.3,4
 LB,Kasim Edebali,26,2014,91,64,91,71,80,65,0.5,3
 LB,Dannell Ellerbe,30,2009,57,82,85,74,67,82,2.5,2
 END_PLAYERS
-Tampa Bay Buccaneers,TB
-QB,Jameis Winston,22,2015,99,89,97,95,90,94,4.3,8
-QB,Mike Glennon,26,2013,86,69,96,93,73,20,0.8,4
-RB,Mike James,25,2013,71,65,85,76,87,64,0.6,2
-RB,Doug Martin,27,2012,85,75,88,67,88,74,7.2,5
-RB,Storm Johnson,23,2014,73,62,93,83,85,53,0.6,2
-RB,Charles Sims,25,2014,87,65,84,64,89,77,0.8,4
-WR,Freddie Martino,24,2014,64,50,90,77,89,79,0.5,1
-WR,Mike Evans,22,2014,102,74,96,102,87,74,3.7,4
-WR,Louis Murphy Jr,29,2009,65,78,78,77,91,87,1.6,3
-WR,Kenny Bell,24,2015,78,58,86,76,93,73,0.6,4
+Hannover Stampeders,HS
+QB,Luke Roh,20,2016,99,89,97,95,90,94,4.3,4
+QB,Oliver Lück,24,2013,86,69,96,93,73,20,0.8,4
+RB,Ronny Gotthold,20,2016,71,65,85,76,87,64,0.6,2
+RB,Marcel Engler,20,2016,85,75,88,97,88,84,7.2,5
+RB,Jonas Niedenthal,23,2014,73,62,93,83,85,53,0.6,2
+RB,Marc Homeier,25,2014,87,65,84,64,89,77,0.8,4
+WR,Marvin Kahl,20,2016,94,90,90,77,89,99,0.5,3
+WR,Florian Dieselhorst,20,2016,102,74,96,102,87,74,3.7,4
+WR,Julien Beckmann,20,2016,65,78,78,77,91,87,1.6,3
+WR,Hakim Pries,20,2016,78,58,86,76,93,73,0.6,4
 WR,Austin Seferian-Jenkins,23,2014,87,48,83,80,86,58,1.3,4
 WR,Luke Stocker,27,2011,79,72,83,66,80,44,1.6,3
 WR,Vincent Jackson,33,2005,78,90,88,91,84,48,11.1,5
 WR,Russell Shepard,25,2013,61,49,93,79,89,72,1.7,1
 WR,Bernard Reedy,24,2014,64,61,90,80,88,81,0.5,2
-WR,Evan Spencer,23,2015,74,52,91,74,91,63,0.5,2
 OL,Demar Dotson,30,2009,57,82,92,87,79,91,1.5,3
-OL,Kevin Pamphile,25,2014,77,65,93,82,85,74,0.6,4
-OL,Evan Smith,29,2009,58,82,88,86,87,76,3.6,4
-OL,Donovan Smith,22,2015,88,55,87,87,84,79,1.5,4
-OL,Joe Hawley,27,2010,78,74,90,83,78,81,1.7,2
+OL,Jasper Wulf,20,2016,99,95,93,92,95,94,0.6,4
+OL,Jim Wolfram,20,2016,98,82,88,86,87,76,3.6,4
+OL,Kevin Turulski,20,2016,88,75,87,87,84,79,1.5,4
+OL,Serif Djibrila,20,2016,78,74,90,83,78,81,1.7,2
 OL,Josh Allen,24,2014,64,50,90,89,78,74,0.6,2
 OL,Andre Davis,22,2015,64,45,93,82,71,82,0.5,2
 OL,Ali Marpet,23,2015,88,49,90,86,82,76,0.9,4
@@ -1587,7 +1586,7 @@ CB,Johnthan Banks,26,2013,86,75,97,84,88,63,1.2,4
 CB,Mike Jenkins,31,2008,65,75,92,74,92,44,0.8,1
 CB,Brent Grimes,32,2006,55,91,90,85,91,47,6.8,2
 CB,Alterraun Verner,27,2010,78,89,91,93,89,42,6.4,4
-CB,Vernon Hargreaves III,21,2016,95,65,85,87,95,70,3.5,4
+CB,Jonathan Bartscht,20,2016,95,95,95,87,95,90,3.5,4
 DL,Cliff Matthews,26,2011,65,60,84,76,74,67,0.8,2
 DL,George Johnson,28,2010,60,74,82,67,74,64,2.3,3
 DL,Akeem Spence,24,2013,81,70,95,90,67,74,0.7,4
@@ -1599,15 +1598,15 @@ DL,Jacquies Smith,26,2012,62,69,84,69,69,64,0.6,1
 DL,Henry Melton,29,2010,65,83,74,83,86,69,3.8,1
 DL,Larry English,30,2009,65,71,79,72,62,70,0.9,1
 DL,Clinton McDonald,29,2009,63,78,86,83,84,75,3,4
-DL,Gerald McCoy,28,2010,98,80,78,102,98,87,15.9,6
+DL,Ron Engler,28,2010,98,80,78,102,98,87,4.9,6
 DL,TJ Fatinikun,24,2014,65,63,82,74,67,65,0.5,2
-LB,Kwon Alexander,21,2015,99,97,84,97,88,90,0.7,6
+LB,Leon Geisler,20,2016,99,97,84,97,88,90,0.7,4
 LB,Danny Lansanah,30,2008,65,78,90,86,72,79,0.7,1
 LB,Daryl Smith,34,2004,77,95,88,92,78,95,2.5,1
-LB,Philipp Blum,19,2016,99,99,99,99,99,99,5.6,5
+LB,Philipp Blum,20,2016,99,99,99,99,99,99,3.6,4
 LB,Adarius Glanton,25,2014,63,54,90,79,64,56,0.6,2
 LB,Kourtnei Brown,28,2012,63,55,83,79,77,65,0.5,2
-LB,Lavonte David,26,2012,85,88,97,107,95,105,10.1,5
+LB,Nick Richey,26,2012,85,88,97,107,95,105,2.1,4
 END_PLAYERS
 Arizona Cardinals,ARZ
 QB,Matt Barkley,25,2013,81,54,87,84,75,37,0.7,4
