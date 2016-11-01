@@ -11,7 +11,7 @@ RB,Kyle Juszczyk,25,2013,76,73,93,82,81,57,0.6,4
 RB,Justin Forsett,30,2008,61,83,88,63,86,93,3,3
 WR,Kaelin Clay,24,2015,73,57,81,73,91,87,0.5,1
 WR,Steve Smith Sr,37,2001,74,96,88,90,83,87,3.5,3
-WR,Michael Campanaro,25,2014,72,65,87QB,Matt Barkley,25,2013,81,54,87,84,75,37,0.7,4
+WR,Michael Campanaro,25,2014,72,65,87,81,90,82,0.6,4
 QB,Drew Stanton,32,2007,80,69,86,89,72,30,3.3,2
 QB,Carson Palmer,36,2003,91,86,74,88,83,20,16.5,3
 RB,Stepfan Taylor,25,2013,76,67,97,86,79,65,0.6,4
