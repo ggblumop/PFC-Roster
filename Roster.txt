@@ -1755,7 +1755,7 @@ LB,Akeem Ayers,26,2011,84,74,95,81,84,75,3,2
 END_PLAYERS
 ######################################################################  SEAHAWKS
 Seattle Seahawks,SEA
-QB,Russell Wilson,18,2016,125,99,99,82,82,82,0.5,20
+QB,Russell Wilson,18,2016,110,99,82,82,82,82,1,4
 QB,Tarvaris Jackson,33,2006,80,67,81,93,70,62,1.5,1
 RB,Derrick Coleman,25,2012,55,72,87,82,87,61,0.5,3
 RB,Christine Michael,25,2013,86,65,80,89,90,65,0.7,1
