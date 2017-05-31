@@ -1,4 +1,14 @@
 ######################################################################  RAVENS
+#Position, Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Contract Money, Contract Years
+#QB Pass Strength, Accuracy, and Evasion 
+#RB Run Power, Speed, Evasion
+#WR Catching, Speed, Evasion
+#OL Strength, Run Block, Pass Block
+#K Kick Strength, Kick Accuracy, Clumsiness
+#S Coverage, Speed, Tackling
+#CB Coverage, Speed, Tackling
+#DL Strength, Run Stop, Pass Rush
+#LB Tackling, Run Stop, Pass Coverage
 Baltimore Ravens,BAL
 QB,Joe Flacco,31,2008,86,85,95,85,87,55,22.1,3
 QB,Ryan Mallett,28,2011,73,63,85,97,79,20,0.8,2
@@ -111,12 +121,12 @@ LB,Marquis Flowers,24,2014,72,62,91,69,57,65,0.6,4
 END_PLAYERS
 ######################################################################  BROWNS
 Cleveland Browns,CLE
-QB,Austin Davis,27,2012,60,65,92,85,79,49,2,2
+QB,Joe Montana,20,2017,150,99,99,81,81,81,7,15
 QB,Connor Shaw,24,2014,63,51,83,80,76,71,0.5,3
 QB,Robert Griffin III,26,2012,80,68,77,92,70,74,7.5,2
 QB,Josh McCown,36,2002,72,75,75,83,71,27,4.7,3
 RB,Glenn Winston,27,2014,62,40,85,85,81,57,0.5,3
-RB,Duke Johnson,22,2015,83,60,76,53,90,87,0.8,4
+RB,Joe Mixon,21,2017,111,88,99,84,84,84,3,4
 RB,Isaiah Crowell,23,2014,62,63,93,86,86,63,0.5,3
 RB,Malcolm Johnson,23,2015,73,46,91,70,83,60,0.6,4
 WR,Rannell Hall,24,2015,64,52,85,70,87,77,0.5,2
@@ -125,19 +135,19 @@ WR,Andrew Hawkins,30,2011,59,83,88,88,90,95,3.4,4
 WR,Gary Barnidge,30,2008,71,76,76,93,81,25,4.1,3
 WR,Taylor Gabriel,25,2014,62,74,87,82,92,87,0.5,3
 WR,Marlon Moore,28,2010,58,71,92,76,86,71,1,3
-WR,Terrelle Pryor,27,2011,81,51,90,70,89,82,1.7,1
-OL,Cameron Erving,23,2015,93,58,93,84,82,85,2.4,4
-OL,John Greco,31,2008,81,82,94,83,93,82,1.6,4
+WR,Terrelle Pryor,21,2107,125,99,90,81,89,82,1.7,15
+OL,Cameron Erving,23,2015,99,99,93,84,88,85,2.4,4
+OL,John Connor,21,2017,81,82,94,83,93,82,1.6,15
 OL,Garth Gerhart,27,2012,63,66,81,85,77,74,0.5,1
-OL,Austin Pasztor,25,2012,61,76,95,79,80,74,1.7,1
-OL,Michael Bowie,24,2013,66,67,89,82,85,72,0.6,4
-OL,Joe Thomas,31,2007,95,92,98,94,90,96,11.5,7
-OL,Joel Bitonio,24,2014,87,72,92,83,93,91,1.4,4
-OL,Alvin Bailey,24,2013,61,70,92,90,87,78,2,3
+OL,Austin Pasztor,23,2015,99,99,95,99,80,74,1.7,15
+OL,Michael Bowie,24,2013,66,67,89,82,85,72,0.6,15
+OL,Joe Thomas,27,2011,99,99,99,99,99,96,11.5,15
+OL,Joel Bitonio,24,2014,99,99,92,99,93,91,1.4,15
+OL,Alvin Bailey,24,2013,99,99,92,90,87,99,2,3
 K,Patrick Murray,24,2014,63,64,90,92,85,70,0.5,1
 K,Andy Lee,33,2004,62,82,85,94,93,63,3.4,6
 S,Jordan Poyer,25,2013,71,50,92,76,92,50,0.6,4
-S,Don Jones,26,2013,66,61,91,70,92,85,1.7,1
+S,Ed Reed,20,2017,125,99,99,88,82,85,1.7,15
 S,Sean Baker,27,2012,63,56,93,68,86,73,0.5,1
 S,Rahim Moore,26,2011,84,82,95,89,89,81,1.9,1
 S,Ibraheim Campbell,24,2015,83,50,82,62,89,79,0.7,4
@@ -652,12 +662,14 @@ QB,Alex Tanney,28,2012,63,49,88,86,76,49,0.5,2
 QB,Marcus Mariota,22,2015,103,60,93,89,88,79,6.1,4
 RB,Antonio Andrews,23,2014,62,49,92,88,78,45,0.6,1
 RB,Dexter McCluster,27,2010,83,76,85,39,88,85,3,3
+RB,Derrick Henry,22,2016,85,78,90,89,88,68,1.3,4
 RB,David Cobb,23,2015,78,60,90,86,84,62,0.6,4
 RB,Jalston Fowler,25,2015,83,60,75,72,77,39,0.7,4
 RB,DeMarco Murray,28,2011,84,89,85,96,89,97,6.3,4
 RB,Bishop Sankey,23,2014,87,69,86,56,89,80,1,4
 WR,Harry Douglas,30,2008,76,81,88,87,84,88,3.8,3
 WR,Delanie Walker,31,2006,64,80,86,78,83,65,6.7,2
+WR,Tajae Sharpe,21,2016,81,74,89,83,87,78,0.6,4
 WR,Tre McBride,23,2015,68,39,87,86,92,79,0.5,2
 WR,Kendall Wright,26,2012,90,82,96,90,90,85,2.1,4
 WR,Rishard Matthews,26,2012,65,70,89,77,83,57,5,3
@@ -754,7 +766,7 @@ LB,Brandon Marshall,26,2012,75,83,89,89,74,84,8.7,3
 LB,DeMarcus Ware,33,2005,83,87,90,73,90,85,10,3
 LB,Dekoda Watson,28,2010,68,69,84,76,64,67,0.8,1
 LB,Todd Davis,24,2014,62,53,94,83,62,67,0.5,2
-LB,Von Miller,27,2011,99,86,93,104,99,97,14.1,1
+LB,Von Miller,27,2011,99,86,93,104,99,97,19,4
 END_PLAYERS
 ######################################################################  CHIEFS
 Kansas City Chiefs,KC
@@ -887,6 +899,7 @@ WR,Malcom Floyd,34,2004,65,88,88,88,82,40,3.9,3
 WR,Javontee Herndon,24,2014,64,53,89,72,90,85,0.5,2
 WR,Travis Benjamin,26,2012,80,75,82,76,93,87,6,4
 WR,Dontrelle Inman,27,2011,63,67,92,79,87,72,0.6,1
+WR,Hunter Henry,21,2016,85,71,89,82,84,53,1.6,4
 WR,Antonio Gates,36,2003,51,95,77,101,78,69,5.5,2
 WR,Keenan Allen,24,2013,81,78,88,103,85,64,11.3,4
 WR,Torrence Allen,25,2014,63,62,91,81,91,66,0.5,1
@@ -1106,8 +1119,9 @@ LB,Nick Perry,26,2012,85,76,97,81,83,73,5.1,1
 END_PLAYERS
 ######################################################################  VIKINGS
 Minnesota Vikings,MIN
-QB,Teddy Bridgewater,23,2014,87,77,89,87,83,70,1.7,4
+QB,Teddy Bridgewater,23,2014,97,77,89,87,83,70,1.7,4
 QB,Shaun Hill,36,2002,50,79,80,77,73,20,3.3,2
+QB,Sam Bradford,28,2010,85,76,71,87,75,29,17.5,2
 QB,Taylor Heinicke,23,2015,63,48,89,79,77,65,0.5,3
 RB,Adrian Peterson,31,2007,95,91,87,104,100,102,14,3
 RB,Matt Asiata,28,2011,60,80,95,90,77,40,0.8,1
@@ -1294,7 +1308,6 @@ LB,Keenan Robinson,26,2012,79,76,85,87,64,74,2.6,1
 END_PLAYERS
 ######################################################################  EAGLES
 Philadelphia Eagles,PHI
-QB,Sam Bradford,28,2010,98,76,71,87,75,29,17.5,2
 QB,Chase Daniel,29,2009,57,70,90,82,71,50,7,3
 QB,Carson Wentz,23,2016,105,75,85,93,89,83,6.7,4
 RB,Trey Burton,24,2014,62,55,95,57,86,83,0.5,3
@@ -1755,12 +1768,12 @@ LB,Akeem Ayers,26,2011,84,74,95,81,84,75,3,2
 END_PLAYERS
 ######################################################################  SEAHAWKS
 Seattle Seahawks,SEA
-QB,Russell Wilson,20,2016,125,99,99,83,83,83,1,17
+QB,Russell Wilson,27,2012,89,84,94,103,95,97,21.9,4
 QB,Tarvaris Jackson,33,2006,80,67,81,93,70,62,1.5,1
 RB,Derrick Coleman,25,2012,55,72,87,82,87,61,0.5,3
 RB,Christine Michael,25,2013,86,65,80,89,90,65,0.7,1
 RB,Fred Jackson,35,2003,65,92,85,87,81,65,0.9,1
-RB,Thomas Rawls,20,2016,125,99,99,79,79,79,1,17
+RB,Thomas Rawls,22,2015,83,47,86,82,90,60,0.5,3
 RB,Bryce Brown,25,2010,65,65,86,84,88,67,0.7,1
 WR,Jermaine Kearse,26,2012,60,79,96,86,89,75,4.5,3
 WR,George Farmer,22,2015,64,48,75,77,92,55,0.5,1
@@ -1782,34 +1795,34 @@ OL,Terry Poole,24,2015,78,49,93,83,72,82,0.5,1
 K,Steven Hauschka,30,2008,56,83,90,89,93,65,2.9,3
 K,Jon Ryan,34,2006,54,87,88,89,94,69,2.5,4
 S,Kelcie McCray,27,2012,61,65,90,72,87,52,0.7,2
-S,Deshawn Shead,20,2016,125,99,99,83,83,83,1,17
-S,Kam Chancellor,20,2016,125,99,99,83,83,83,1,17
-S,Earl Thomas III,20,2016,125,99,99,83,83,83,1,17
-CB,Brandon Browner,20,2016,125,99,99,83,83,83,1,17
-CB,Jeremy Lane,20,2016,125,99,99,83,83,83,1,17
+S,Deshawn Shead,27,2012,60,68,90,73,88,73,0.8,1
+S,Kam Chancellor,28,2010,73,85,94,82,86,107,7,4
+S,Earl Thomas III,27,2010,88,86,93,106,92,72,10,4
+CB,Brandon Browner,31,2005,58,87,88,92,80,73,0.8,1
+CB,Jeremy Lane,25,2012,75,75,90,85,88,72,5.8,4
 CB,Eric Pinkins,24,2014,72,52,92,67,54,66,0.5,1
 CB,Stanley Jean-Baptiste,26,2014,87,46,93,83,91,61,0.5,1
-CB,Marcus Burley,20,2016,125,99,99,83,83,83,1,17
+CB,Marcus Burley,25,2013,61,67,93,85,94,55,0.6,1
 CB,Tye Smith,23,2015,78,43,94,78,89,60,0.6,4
-CB,Richard Sherman,20,2016,125,99,99,83,83,83,1,17
-CB,Steven Terrell,20,2016,125,99,99,83,83,83,1,17
+CB,Richard Sherman,28,2011,74,97,96,109,89,65,14,4
+CB,Steven Terrell,25,2013,61,50,90,77,91,70,0.6,1
 CB,Tharold Simon,25,2013,76,68,85,81,89,80,0.6,4
 DL,Sealver Siliga,27,2011,59,78,90,88,80,90,1.1,1
-DL,Michael Bennett,20,2016,125,99,99,83,83,83,1,17
+DL,Michael Bennett,30,2009,84,87,87,101,94,87,7.1,2
 DL,Jordan Hill,25,2013,81,68,93,84,76,74,0.7,4
-DL,Cassius Marsh,20,2016,125,99,99,83,83,83,1,17
-DL,Frank Clark,20,2016,125,99,99,83,83,83,1,17
-DL,Ryan Robinson,20,2016,125,99,99,83,83,83,1,17
-DL,Cliff Avril,20,2016,125,99,99,83,83,83,1,17
+DL,Cassius Marsh,23,2014,82,53,92,66,80,69,0.7,4
+DL,Frank Clark,23,2015,88,39,86,73,84,77,0.9,4
+DL,Ryan Robinson,25,2013,61,57,87,67,62,65,0.6,2
+DL,Cliff Avril,30,2008,76,87,93,73,76,64,7.1,4
 DL,Demarcus Dobbs,28,2011,65,73,91,84,78,74,0.8,1
 DL,Ahtyba Rubin,29,2008,66,85,90,93,71,79,4,3
 DL,Justin Hamilton,22,2015,63,50,87,85,83,62,0.5,1
 LB,Nick Moody,26,2013,65,68,77,77,71,75,0.6,1
-LB,KJ Wright,20,2016,125,99,99,83,83,83,1,17
-LB,Philipp Blum,20,2016,125,99,99,83,83,83,1,17
-LB,Bobby Wagner,20,2016,125,99,99,83,83,83,1,17
+LB,KJ Wright,26,2011,79,86,95,91,78,85,6.8,4
+LB,Khairi Fortt,24,2014,78,57,78,73,68,64,0.5,1
+LB,Bobby Wagner,25,2012,85,86,94,97,86,90,10.8,4
 LB,Kevin Pierre-Louis,24,2014,77,62,85,80,72,54,0.7,4
-LB,Brock Coyle,20,2016,125,99,99,83,83,83,1,17
+LB,Brock Coyle,25,2014,62,67,93,79,62,71,0.5,3
 END_PLAYERS
 ######################################################################  49ERS
 San Francisco 49ers,SF
